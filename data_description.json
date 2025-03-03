@@ -1,0 +1,24 @@
+{
+    "columns": [
+        {
+            "name": "country_name",
+            "type": "TEXT",
+            "description": "Country name (Belgium)"
+        },
+        {
+            "name": "year",
+            "type": "INTEGER",
+            "description": "Year (2001-2020)"
+        },
+        {
+            "name": "primary_enrollment",
+            "type": "REAL",
+            "description": "Number of students enrolled in primary education"
+        },
+        {
+            "name": "gdp",
+            "type": "REAL",
+            "description": "Gross Domestic Product (GDP) per capita in USD"
+        }
+    ]
+}
